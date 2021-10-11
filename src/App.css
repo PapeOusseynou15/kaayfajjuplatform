@@ -1,0 +1,92 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.bgimg {
+  background: url("https://s3-eu-west-3.amazonaws.com/leah-blog-production/2020/06/utiliser-la-teleconsultation.jpg");
+  opacity:2.8;
+  background-size: cover;
+  height: auto;
+  width: auto;
+}
+.bgimage {
+  background: url("https://s3-eu-west-3.amazonaws.com/leah-blog-production/2020/06/utiliser-la-teleconsultation.jpg");
+  opacity:2.8;
+  background-size: cover;
+  height: auto;
+  width: 100%;
+  max-width: 850px;
+  padding: 40px 30px;
+}
+.form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.containe{
+  position: relative;
+  max-width: 850px;
+  width: 100%;
+  background: #fff;
+  padding: 40px 30px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  perspective: 2700px;
+}
+.containeu{
+  position: relative;
+  max-width: 450px;
+  width: 100%;
+  background: #fff;
+  padding: 40px 30px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  perspective: 2700px;
+}
+.containeur{
+  position: relative;
+  max-width: 500px;
+  width: 100%;
+  background: #fff;
+  padding: 40px 30px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  perspective: 2700px;
+}
+.button
+{
+  position: relative;
+  max-width: 850px;
+  width: 100%;
+  padding: 40px 30px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  perspective: 2700px; 
+  display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: auto;
+}
+.topnav {
+  
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
